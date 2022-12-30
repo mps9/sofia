@@ -21,10 +21,11 @@
 
 .task__control {
     margin-left: auto;
+    margin-right: 10px;
 }
 
 .task__success {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     background-color: green;
 }
