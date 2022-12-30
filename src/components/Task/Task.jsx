@@ -9,6 +9,7 @@ const Task = () => {
             
             <div className="task__control">
                 <div className="task__success"></div>
+                <div className="task__warning"></div>
             </div>
         </div>
     )
