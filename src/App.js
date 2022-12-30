@@ -31,6 +31,10 @@ function App() {
       asdasdasd
       asdasdasd
       asdasdasd
+      <br/>
+      asdasdasd
+      asdasdasd
+      asdasdasd
       <button onClick={onClose}>Close</button>
     </div>
   );
