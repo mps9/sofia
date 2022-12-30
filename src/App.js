@@ -19,6 +19,8 @@ function App() {
       <br/>
       ЕБАШУ НА РЕАКТЕ В ТЕЛЕГЕttttttttttttttasdasdasdddddddddddddddtttttt
       <br/>
+      test
+      <br/>
       <button onClick={onClose}>Close</button>
     </div>
   );
