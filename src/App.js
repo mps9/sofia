@@ -6,7 +6,11 @@ import './components/Task/style.css';
 
 function App() {
   return (
-    <Task/>
+    <div className='App'>
+      <Task/>
+      <Task/>
+      <Task/>
+    </div>
   );
 }
 
