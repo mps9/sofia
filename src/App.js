@@ -10,9 +10,21 @@ function App() {
       <Task/>
       <Task/>
       <Task/>
-      asdasdasda
-      asdasdasdaasd
-      asd
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
+      <Task/>
     </div>
   );
 }
