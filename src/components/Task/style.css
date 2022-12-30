@@ -1,10 +1,10 @@
 .task {
     height: 50px;
     width: 100%;
-    background-color: red;
     display: flex;
     align-items: center;
     justify-content: left;
+    margin-top: 10px;
 }
 
 .task__id {
@@ -18,3 +18,13 @@
 /* .task__header, .task__description, .task__id {
     display: flex;
 } */
+
+.task__control {
+    margin-left: auto;
+}
+
+.task__success {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
