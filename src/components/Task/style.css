@@ -7,12 +7,17 @@
     margin-top: 10px;
 }
 
-.task__id {
+.task__main {
     margin: 0 0 0 10px;
 }
 
-.task__header {
-    margin: 0 0 0 10px;
+.task__main_header {
+
+}
+
+.task__main_date {
+    opacity: 50%;
+    font-size: 14px;
 }
 
 /* .task__header, .task__description, .task__id {
