@@ -17,7 +17,7 @@ function App() {
       hi
       hi
       hi
-      hi
+      ЭТО НОВОЕ АПИ ДЕТКА
       hi
       hi
       hi
