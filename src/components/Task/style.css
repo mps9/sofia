@@ -12,12 +12,12 @@
 }
 
 .task__main_header {
-
+    font-size: 16px;
 }
 
 .task__main_date {
-    opacity: 80%;
-    font-size: 14px;
+    opacity: 50%;
+    font-size: 12px;
 }
 
 /* .task__header, .task__description, .task__id {

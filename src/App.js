@@ -11,22 +11,18 @@ function App() {
       <Task info={{header: 'My first task', date: '30 december 12:30'}}/>
       <Task info={{header: 'I need some sleep', date: '30 december 18:30'}}/>
       <Task info={{header: 'I want to sleep', date: '30 december 18:30'}}/>
-      <div className='header'>Yesterday</div>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
-      <Task info={{header: 'Heppy new year', date: '31 december 23:59'}}/>
+      <div className='header'>Tomorrow</div>
+      <Task info={{header: 'Happy new year', date: '31 december 23:50'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:51'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:52'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:53'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:54'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:55'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:56'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:57'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:58'}}/>
+      <Task info={{header: 'Happy new year', date: '31 december 23:59'}}/>
+
     </div>
   );
 }
