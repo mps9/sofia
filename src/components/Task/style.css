@@ -1,0 +1,20 @@
+.task {
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.task__id {
+    margin: 0 0 0 10px;
+}
+
+.task__header {
+    margin: 0 0 0 10px;
+}
+
+/* .task__header, .task__description, .task__id {
+    display: flex;
+} */
