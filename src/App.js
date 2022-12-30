@@ -15,6 +15,12 @@ function App() {
   return (
     <div className="App">
       hi
+      hi
+      hi
+      hi
+      hi
+      hi
+      hi
       <button onClick={onClose}>Close</button>
     </div>
   );
