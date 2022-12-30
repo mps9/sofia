@@ -17,7 +17,7 @@ function App() {
 
       ЭТО НОВОЕ АПИ ДЕТКА
       <br/>
-      ЕБАШУ НА РЕАКТЕ В ТЕЛЕГЕ
+      ЕБАШУ НА РЕАКТЕ В ТЕЛЕГЕtttttttttttttttttttt
       <br/>
       <button onClick={onClose}>Close</button>
     </div>
