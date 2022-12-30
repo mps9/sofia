@@ -7,9 +7,11 @@ import './components/Task/style.css';
 function App() {
   return (
     <div className='App'>
+      <div className='header'>Сегодня</div>
       <Task/>
       <Task/>
       <Task/>
+      <div className='header'>Завтра</div>
       <Task/>
       <Task/>
       <Task/>
