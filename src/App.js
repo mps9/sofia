@@ -12,7 +12,6 @@ function App() {
 
   return (
     <div className='App'>
-      <h3>Tasks</h3>
       <div className='header'>Today</div>
       <Task info={{header: 'My first task', date: '30 december 12:30'}}/>
       <Task info={{header: 'I need some sleep', date: '30 december 18:30'}}/>
