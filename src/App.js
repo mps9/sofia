@@ -14,13 +14,11 @@ function App() {
 
   return (
     <div className="App">
-      hi
-      hi
-      hi
+
       ЭТО НОВОЕ АПИ ДЕТКА
-      hi
-      hi
-      hi
+      <br/>
+      ЕБАШУ НА РЕАКТЕ В ТЕЛЕГЕ
+      <br/>
       <button onClick={onClose}>Close</button>
     </div>
   );
