@@ -15,7 +15,7 @@
 }
 
 .task__main_date {
-    background-color: var(--tg-theme-hint-color);
+    color: var(--tg-theme-hint-color);
     /* opacity: 50%; */
     font-size: 12px;
 }
